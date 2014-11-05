@@ -8,6 +8,8 @@ public class Hoobies {
 		// TODO Auto-generated method stub
 		String a = "a";
 		String b = "b";
+		
+		String addone = "add one line";
 
 	}
 
